@@ -1,9 +1,9 @@
 import React from 'react'
 
-function C2({ nodes, materials, ...props }) {
+function C1({ nodes, materials, ...props }) {
     return (
         <></>
     )
 }
 
-export default C2
+export default C1
